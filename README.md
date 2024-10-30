@@ -1,5 +1,7 @@
 # FoodWasteManagement GUI
 
+https://www.figma.com/design/7VHJnndDK8h2TWZdav7FwS/Food-Waste-Management-App?node-id=0-1&t=P4l26OVYmGczbpHk-1
+
 ![image](https://github.com/user-attachments/assets/2de43dc6-43ae-4aef-b50a-2f7ed5b8e8c3)
 
 ![image](https://github.com/user-attachments/assets/27b76dd9-0a37-47af-b750-ac5efe73af7c)
